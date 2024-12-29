@@ -7,23 +7,18 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=harun181&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: JS / HTML / CSS
 
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++
-
-- 👨‍💻 All of my projects are available at [https://github.com/harun181](https://github.com/harun181)
+- 👨‍💻 All of my projects are available at [https://github.com/Mahabub013](https://github.com/Mahabub013)
 
 - 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
 
 <h3 align="left">Connect with me:</h3>
 
