@@ -69,11 +69,11 @@ Skills: JS / HTML / CSS
 
 <a> 
     <a href="https://github.com/Mahabub013"><img alt="Mahabub's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mahabub013&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Mahabub013"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mahabub013&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Mahabub013"><img alt="Mahabub013's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mahabub013&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Mahabub's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahabub&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Mahabub's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahabub&custom_title=Mahabub013's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
